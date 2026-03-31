@@ -4,7 +4,7 @@
 
  ## About me
 
-- I’m Tech Enthusiast
+- 👩‍💻 I’m Tech Enthusiast
 - 👀 I’m interested in Fun Coding
 - 🌱 I’m currently learning Full-stack Web development
 
