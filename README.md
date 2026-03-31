@@ -2,7 +2,7 @@
 
 
 
-## Hi, I am Nalina Meshram 👋
+ ## About me
 
 - I’m Tech Enthusiast
 - 👀 I’m interested in Fun Coding
