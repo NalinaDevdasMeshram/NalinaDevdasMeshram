@@ -8,13 +8,13 @@
 - 👀 I’m interested in Fun Coding
 - 🌱 I’m currently learning Full-stack Web development
 
-### 📁 FrontEnd
+### 🎨 FrontEnd
 HTML, CSS, Bootstrap, JavaScript, React, Tailwind
 
-### 📁 BackEnd
+### ⚙️ BackEnd
 HTTPS, REST, JSON, Node.js, Express, MongoDB
 
-### ⚓ Tools
+### 🛠️ Tools
 VS Code, Git, Developer Tools, Netlify, JIRA, AnyDesk
 
 
