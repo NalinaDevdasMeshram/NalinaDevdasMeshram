@@ -4,11 +4,11 @@
 
 I enjoy building responsive web applications and solving practical problems using JavaScript and modern web technologies.
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
+- 💻 **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Typescript, Bootstrap, Tailwind CSS
 - ⚙️ **Backend:** Node.js, Express.js, REST APIs
 - 🗄️ **Database:** MongoDB
 - 🛠️ **Tools:** Git, GitHub, VS Code, Chrome DevTools
-- 🚀 **Interests:** Frontend development, full-stack applications, clean code and reusable components
+- 🚀 **Interests:** MERNFrontend Development, full-stack applications, clean code and reusable components
 - 📍 **Location:** Pune, Maharashtra, India
 
 
